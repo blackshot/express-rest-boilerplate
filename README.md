@@ -1,5 +1,7 @@
 ## Express app boilerplate
-Este repositorio tiene el boilerplate necesario para hacer deploy de una api rest con node usando controladores, anotaciones e inyectables.
+Este repositorio tiene el boilerplate de express necesario para hacer deploy de una api rest con node usando controladores, anotaciones e inyectables de manera similar a como lo trabajarías con Java Spring Boot.
+## Modo de uso
+`npm install`: instalar las dependencias antes de iniciarlo.
 
 ## Comandos
 * `npm run build`: transpilar typescript 
